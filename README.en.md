@@ -26,7 +26,7 @@ Nothing to install: the radio stacks, the core network, IMS, the subscriber data
 1. Connect attenuators or antennas, feed the GPSDO's 10 MHz + PPS into the USRP and plug the USRP into USB 3.0.
 2. Download the latest binary from [Releases](../../releases) and run it as root:
    ```sh
-   wget https://github.com/<repo>/releases/download/v1.0.0/kpstv1.0.0-linux-amd64
+   wget https://github.com/rldv1/kapusta/releases/download/v1.0.0/kpstv1.0.0-linux-amd64
    chmod +x kpstv1.0.0-linux-amd64
    sudo ./kpstv1.0.0-linux-amd64
    ```
