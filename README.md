@@ -26,7 +26,7 @@
 1. Подключите аттенюаторы или антенны, заведите 10 МГц + PPS от GPSDO на USRP и подключите USRP к USB 3.0.
 2. Скачайте последний бинарник со страницы [Releases](../../releases) и запустите его от root:
    ```sh
-   wget https://github.com/rldv1/kapusta/releases/download/v1.0.0/kpstv1.0.0-linux-amd64
+   wget https://github.com/rldv1/kapusta/releases/download/v0.1.0/kpstv0.1.0-linux-amd64
    chmod +x kpstv1.0.0-linux-amd64
    sudo ./kpstv1.0.0-linux-amd64
    ```
